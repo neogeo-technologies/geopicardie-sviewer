@@ -1,7 +1,8 @@
 etc/customConfig.js
-etc/customConfig_*
 *~
 *.swp
 *.swo
 node_modules
 npm-debug.log
+
+.DS_Store
